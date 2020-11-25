@@ -1,0 +1,4 @@
+const newFunction (props) => {
+ const increment = props + 1;
+ 
+}
